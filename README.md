@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="#">
+  <a href="https://platotravel.netlify.app/">
     <img src="images/Plato.png" alt="PlatoLogo" width="300" height="300">
   </a>
 
