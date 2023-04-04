@@ -12,7 +12,7 @@
   <p align="center">
     A travel agency to help you see the world in Style!
     <br />
-    <a href="https://platotravel.netlify.app/"><strong>See it live »</strong></a>
+    <a href="https://platotravel.netlify.app/"><strong>See it live here »</strong></a>
     <br />
    
 </div>
