@@ -21,7 +21,7 @@
 
 ## About The Project
 
-<span align="center">[![Plato Travel][product-screenshot]](https://platotravel.netlify.app)</span>
+<span align="center">[![Plato Travel][product-screenshot]](https://platotravel.netlify.app/)</span>
 
 Built with HTML CSS/SASS, and JavaScript.
 
