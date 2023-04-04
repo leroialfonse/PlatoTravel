@@ -52,7 +52,7 @@ I can be reached either via my twitter or email! Get in touch with me today!
 
 Brandon White - [@CodusOperandi](https://twitter.com/CodusOperandi) - brandonwhitedev@gmail.com
 
-Project Link: [https://github.com/leroiafonse/repo_name](https://github.com/leroialfonse/PlatoTravel)
+<!-- Project Link: [https://github.com/leroiafonse/PlatoTravel](https://github.com/leroialfonse/PlatoTravel) -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
