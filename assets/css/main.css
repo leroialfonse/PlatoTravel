@@ -1220,10 +1220,10 @@ table {
 
 /* Table */
 
+
+
 #packages{
-	display: inline;
-	/* padding: 5rem; */
-	width: 80%;
+display: inline;
 }
 
 .hint{
@@ -2333,6 +2333,7 @@ table {
 	#contact {
 		overflow: hidden;
 		padding-bottom: 0;
+		margin-top: 20px;
 	}
 
 		#contact .box {
