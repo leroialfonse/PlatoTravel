@@ -1222,7 +1222,8 @@ table {
 
 #packages{
 	display: inline;
-	padding: 5rem;
+	/* padding: 5rem; */
+	width: 80%;
 }
 
 .hint{
